@@ -5,7 +5,6 @@ import '@mantine/nprogress/styles.css';
 import { MedplumClient } from '@medplum/core';
 import { MedplumProvider } from '@rahulideas2it/fhir-sdc-lib-react';
 import '@rahulideas2it/fhir-sdc-lib-react/styles.css';
-import React from 'react';
 import ReactDOM from 'react-dom/client';
 import { BrowserRouter } from 'react-router-dom';
 import App from './App.tsx';
