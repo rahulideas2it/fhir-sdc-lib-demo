@@ -1,0 +1,13 @@
+form .mantine-InputWrapper-root {
+  padding-bottom: 4px;
+}
+
+form .mantine-Stack-root:first-child {
+  display: none;
+}
+
+#resourceForm > .mantine-Group-root,
+#questionnaire-form-preview > .mantine-Group-root {
+  display: none;
+}
+

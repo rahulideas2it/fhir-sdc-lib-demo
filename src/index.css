@@ -1,0 +1,11 @@
+html,
+body,
+#root {
+  height: 100%;
+}
+
+[class^='ResourceArrayInput-module__indented'] {
+  border-left: solid 2px var(--mantine-color-green-4);
+  border-radius: 8px;
+}
+
